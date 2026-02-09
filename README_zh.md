@@ -1,5 +1,5 @@
 * [English version](./README.md)
-# WeActStudio.KeyBoard3Mini
+# WeActStudio.Keyboard3Mini
 * 3 键，全键自定义
 * 2 个rgb led，动态光效
 ## 使用说明

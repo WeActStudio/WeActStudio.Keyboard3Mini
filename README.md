@@ -1,5 +1,5 @@
 * [中文版本](./README_zh.md)
-# WeActStudio.KeyBoard3Mini
+# WeActStudio.Keyboard3Mini
 * 3 key, full key custom
 * 2 rgb led, dynamic lighting
 ## Usage Instructions
